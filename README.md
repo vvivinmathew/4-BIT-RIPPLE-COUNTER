@@ -1,4 +1,4 @@
-# 4-BIT-RIPPLE-COUNTER
+[# 4-BIT-RIPPLE-COUNTER
 
 **AIM:**
 
@@ -37,4 +37,4 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
-**RESULTS**
+**RESULTS**](https://github.com/vvivinmathew/SYNCHRONOUS-UP-COUNTER)
